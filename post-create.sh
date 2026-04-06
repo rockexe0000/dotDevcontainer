@@ -19,8 +19,6 @@ sudo apt-get install -y curl wget unzip jq git vim nano
 ### 安裝 Bun (JavaScript/TypeScript 執行環境)
 curl -fsSL https://bun.com/install | bash
 
-### 安裝 opencode (Coding Agent)
-#curl -fsSL https://opencode.ai/install | bash
 
 ### 安裝 Claude CLI
 #curl -fsSL https://claude.ai/install.sh | bash
@@ -28,6 +26,17 @@ curl -fsSL https://bun.com/install | bash
 ### 安裝 Gemini CLI
 #npm install -g @google/gemini-cli
 
+### 安裝 OpenAI Codex CLI
+#npm i -g @openai/codex
+
+### 安裝 GitHub Copilot CLI
+#curl -fsSL https://gh.io/copilot-install | bash
+
+### 安裝 Kiro CLI
+#curl -fsSL https://cli.kiro.dev/install | bash
+
+### 安裝 opencode CLI
+#curl -fsSL https://opencode.ai/install | bash
 
 
 
